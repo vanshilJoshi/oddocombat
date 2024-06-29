@@ -1,7 +1,3 @@
-Here's a draft for your GitHub README file:
-
----
-
 # Train Comfort Manager
 
 ## Project Overview
